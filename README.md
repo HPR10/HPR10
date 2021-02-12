@@ -13,7 +13,9 @@ Futuro desenvolvedor IOS 👨‍💻
 - 🤔 Estou procurando ajuda na plataforma apple
 - 📫 Como entrar em contato comigo: através de hugo_hp10@hotmail.com
 - ⚡  Curiosidade: Gosto de jogar Magic 🃏 e de uma cervejinha 🍺 com amigos
-- 🎯 Tenho interesse: Mobile, Git, Swift e OpenSource
+- 🎯 Tenho interesse: 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 
 
