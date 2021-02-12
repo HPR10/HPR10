@@ -5,7 +5,7 @@
 -->
 
 Prazer, Sou o Hugo! Um cara que ama tecnologia ♋️🇧🇷
-Futuro desenvolvedor IOS Júnior 👨‍💻
+Futuro desenvolvedor IOS 👨‍💻
 
 - 🎓 Estudante de Computação - UFF
 - 🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS
