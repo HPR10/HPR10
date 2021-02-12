@@ -3,7 +3,7 @@
 <!--
 **HPR10/HPR10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Desenvolvedor IOS Júnior 💻 ♋️🌈🇧🇷
+Desenvolvedor IOS Júnior 💻 ♋️🇧🇷
 
 - 📚 Estudante de Computação - UFF
 - 🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS
