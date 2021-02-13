@@ -26,6 +26,7 @@ Connect with me:
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPR10&layout=compact&show_icons=true&theme=synthwave)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HPR10&show_icons=true&theme=dracula)
 
 
 
