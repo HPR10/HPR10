@@ -6,6 +6,7 @@
 
 Connect with me:
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
+  [![Gmail Badge](https://img.shields.io/badge/-hugopinheiro@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugopinheiro@id.uff.br)](mailto:hugopinheiro@id.uff.br)
 
 
 
