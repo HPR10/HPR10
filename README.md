@@ -25,7 +25,7 @@ Connect with me:
  
  
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPR10&layout=compact)
+ <h2![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPR10&layout=compact)</h2>
 
 
 
