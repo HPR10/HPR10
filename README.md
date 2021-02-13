@@ -24,6 +24,8 @@ Connect with me:
  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
  
  
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPR10&layout=compact)
 
 
 
