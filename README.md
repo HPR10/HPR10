@@ -4,7 +4,7 @@
 **HPR10/HPR10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Prazer, Sou o Hugo! Desenvolvedor IOS 👨‍💻
+<h1 align="center">Prazer, Sou o Hugo! Desenvolvedor IOS 👨‍💻</h1>
 
 Connect with me:
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
