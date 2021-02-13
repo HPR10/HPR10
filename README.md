@@ -18,7 +18,7 @@ Connect with me:
 - ⚡  Curiosidade: Gosto de jogar Magic 🃏 e de uma cervejinha 🍺 com amigos
 - 🎯 Tenho interesse: 
  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
- https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+ ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  
 
 
