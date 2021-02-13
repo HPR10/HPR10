@@ -4,10 +4,9 @@
 
 <h1 align="center">Prazer, Sou o Hugo! Desenvolvedor IOS 👨‍💻</h1>
 
-<h3Connect with me</h3>:
-<p align="left">
-<a [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)</a>
-</p>
+Connect with me:
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
+
 
 
 - 🎓 Estudante de Computação - UFF
