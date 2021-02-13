@@ -4,7 +4,7 @@
 **HPR10/HPR10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Prazer, Sou o Hugo! Um cara que ama tecnologia ♋️🇧🇷
+Prazer, Sou o Hugo!   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
 Futuro desenvolvedor IOS 👨‍💻
 
 - 🎓 Estudante de Computação - UFF
@@ -14,13 +14,14 @@ Futuro desenvolvedor IOS 👨‍💻
 - 📫 Como entrar em contato comigo: através de hugo_hp10@hotmail.com
 - ⚡  Curiosidade: Gosto de jogar Magic 🃏 e de uma cervejinha 🍺 com amigos
 - 🎯 Tenho interesse: 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
 
 
 
 
 
 
-
+https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/
 
 
