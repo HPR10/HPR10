@@ -9,11 +9,9 @@ Connect with me:
   [![Gmail Badge](https://img.shields.io/badge/-hugopinheiro@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugopinheiro@id.uff.br)](mailto:hugopinheiro@id.uff.br)
 
 
-
-- 🎓 Estudante de Computação - UFF
-- 🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS
-- 📚 Atualmente, estou aprendendo Swift, Padrão MVC e criando meu primeiro app nativo
-- 🤔 Estou procurando ajuda na plataforma apple
+- 🎓 Computação - UFF 🏆
+- 👨🏽‍💻 desenvolvedor IOS
+- 📚 Atualmente,estou aprendendo Swift, Padrão MVVM e criando meu primeiro app nativo em SwiftUI
 - 📫 Como entrar em contato comigo: através de hugo_hp10@hotmail.com
 - ⚡  Curiosidade: Gosto de jogar Magic 🃏 e de uma cervejinha 🍺 com amigos
 - 🎯 Tenho interesse: 
