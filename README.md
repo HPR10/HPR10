@@ -2,7 +2,7 @@
 **`iOS Developer 👨🏽‍💻🇧🇷`**
 
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
-    [![Gmail Badge](https://img.shields.io/badge/-hugo_hp10@hotmail.com-c14438?style=flat-square&logo=hotmail&logoColor=white&link=mailto:hugo_hp10@hotmail.com)](mailto:hugo_hp10@hotmail.com)
+    [![Gmail Badge](https://img.shields.io/badge/-hugo_hp10@hotmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:hugo_hp10@hotmail.com)](mailto:hugo_hp10@hotmail.com)
 
 ---
 ### About 
