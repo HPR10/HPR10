@@ -1,24 +1,23 @@
 # 👋🏽 Hi, I'm Hugo
 **`iOS Developer 👨🏽‍💻🇧🇷`**
 
-Connect with me:
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
-    [![Gmail Badge](https://img.shields.io/badge/-hugopinheiro@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugopinheiro@id.uff.br)](mailto:hugopinheiro@id.uff.br)
+    [![Gmail Badge](https://img.shields.io/badge/-hugo_hp10@hotmail.com-c14438?style=flat-square&logo=hotmail&logoColor=white&link=mailto:hugo_hp10@hotmail.com)](mailto:hugo_hp10@hotmail.com)
 
-
+---
+### About 
 - 🎓 Computação - UFF 🏆
-- 👨🏽‍💻 desenvolvedor IOS
-- 📚 Atualmente,estou aprendendo Swift, Padrão MVVM e criando meu primeiro app nativo em SwiftUI
-- 📫 Como entrar em contato comigo: através de hugo_hp10@hotmail.com
-- ⚡  Curiosidade: Gosto de jogar Magic 🃏 e de uma cervejinha 🍺 com amigos
-- 🎯 Tenho interesse: 
- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
- ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
- ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
- ![MacBook](https://img.shields.io/badge/Hackintosh-999999?style=for-the-badge&logo=apple&logoColor=white)
- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
- 
- 
+- 👨🏽‍💻 I started teaching myself iOS development in 2020 before I worked with database
+- 📚 I'm currently learning SwiftUI and venturing into Flutter
+- 🫶 BIG Google, chatGPT and Stack Overflow fan 
+
+
+ ### Skills
+- 🎨 SwiftUI, UIKit and Flutter
+- 💽 Core Data, SQLLite
+- 🔥 Firebase
+- 💻 Git, Github
+- 🖥 Xcode, VScode
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPR10&layout=compact&show_icons=true&theme=synthwave)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HPR10&show_icons=true&theme=dracula)
