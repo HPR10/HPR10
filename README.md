@@ -1,12 +1,9 @@
-<!--
-**HPR10/HPR10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<h1 align="center">Prazer, Sou o Hugo! Desenvolvedor IOS 👨‍💻</h1>
+# 👋🏽 Hi, I'm Hugo
+**`iOS Developer 👨🏽‍💻🇧🇷`**
 
 Connect with me:
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
-  [![Gmail Badge](https://img.shields.io/badge/-hugopinheiro@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugopinheiro@id.uff.br)](mailto:hugopinheiro@id.uff.br)
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)](https://www.linkedin.com/in/hugo-pinheiro-7b728a12b/)
+    [![Gmail Badge](https://img.shields.io/badge/-hugopinheiro@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugopinheiro@id.uff.br)](mailto:hugopinheiro@id.uff.br)
 
 
 - 🎓 Computação - UFF 🏆
